@@ -39,3 +39,16 @@ form.button_to {
 .jumbotron {
   background-color: rgb(190, 238, 190);
 }
+
+
+
+.dash p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(230, 230, 230);
+  border-radius: 4px;
+  width: 25%;
+  height: 30px;
+  font-weight: bold;
+}
