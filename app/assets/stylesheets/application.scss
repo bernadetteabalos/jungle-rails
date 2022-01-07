@@ -40,8 +40,6 @@ form.button_to {
   background-color: rgb(190, 238, 190);
 }
 
-
-
 .dash p {
   display: flex;
   justify-content: center;
@@ -50,5 +48,15 @@ form.button_to {
   border-radius: 4px;
   width: 25%;
   height: 30px;
+  font-weight: bold;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.signed-in-as {
+  color: #777;
   font-weight: bold;
 }
