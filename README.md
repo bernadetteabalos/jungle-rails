@@ -1,6 +1,31 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+## Dependencies
+
+- Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
+- PostgreSQL 9.x
+- Stripe
+## Testing Suite
+- Capybara
+- RSpec
+
+## Screenshots
+### Landing Page
+Home page with all products shown.
+### Product Details Page
+
+### Categories 
+Navbar showing categories drop-down.
+
+### Admin dashboard
+Admin dashboard showing categories and product numbers.
+### Admin Dropdown Menu
+Admin dropdown menu on admin categories page.
+### Product Checkout Page
+
+### Product Summary after Checkout
+
 
 ## Additional Steps for Apple M1 Machines
 
