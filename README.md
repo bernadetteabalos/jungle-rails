@@ -13,19 +13,22 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 ## Screenshots
 ### Landing Page
 Home page with all products shown.
+!["landing page"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/landing.png?raw=true)
 ### Product Details Page
-
+!["product details"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/productdetail.png?raw=true)
 ### Categories 
 Navbar showing categories drop-down.
-
+!["category dropdown"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/categories.png?raw=true)
 ### Admin dashboard
 Admin dashboard showing categories and product numbers.
+!["admin dash"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/admindashboard.png?raw=true)
 ### Admin Dropdown Menu
 Admin dropdown menu on admin categories page.
+!["admin dropdown"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/admindashboard2.png?raw=true)
 ### Product Checkout Page
-
+!["product checkout"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/checkout.png?raw=true)
 ### Product Summary after Checkout
-
+!["checkout success"](https://github.com/bernadetteabalos/jungle-rails/blob/master/docs/successcheckout.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
